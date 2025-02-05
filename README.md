@@ -4,12 +4,12 @@ This project implements an ETL (Extract, Transform, Load) process using Azure St
 
 ## Notebook contents
 
-1. [ETL Process](#etl-process)
-    - [Extract](#extract)
-    - [Transform](#transform)
-    - [Load](#load)
-2. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-3. [NLP with VADER](#nlp-with-vader)
+1. ETL Process
+    - Extract
+    - Transform
+    - Load
+2. Exploratory Data Analysis (EDA)
+3. NLP with VADER
 
 
 ## Overview
